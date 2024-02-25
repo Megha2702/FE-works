@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "steps",
+=======
+  "name": "travel-plan",
+>>>>>>> 47a97288a057bf0b622e66cd4c0a8f98d17b9519
   "version": "0.1.0",
   "private": true,
   "dependencies": {
